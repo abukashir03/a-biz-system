@@ -1,0 +1,10 @@
+# ads.txt for authorized digital sellers
+# Replace the publisher ID below with your real Google AdSense / Ad Manager publisher ID
+# Format: <domain>, <publisher-account-id>, <relationship>, <certification-authority-id>
+
+google.com, pub-2162290965535942, DIRECT, f08c47fec0942fa0
+
+# Add other authorized networks below if needed, one per line
+# Example:
+# facebook.com, 1234567890, DIRECT
+# advertising.com, f08c47fec0942fa0, RESELLER
